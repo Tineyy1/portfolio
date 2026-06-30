@@ -44,7 +44,7 @@ export function About() {
           <Reveal delay={0.15}>
             <div className="glass rounded-2xl p-6">
               <p className="font-mono text-xs text-signal uppercase tracking-widest mb-4">
-                // fun facts
+                {"// fun facts"}
               </p>
               <ul className="space-y-3">
                 {siteConfig.about.funFacts.map((fact) => (
