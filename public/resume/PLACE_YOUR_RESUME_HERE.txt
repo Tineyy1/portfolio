@@ -1,0 +1,2 @@
+Add your real resume PDF here named: alex-rivera-resume.pdf
+(or update resumeUrl in src/config/site.ts to match your filename)

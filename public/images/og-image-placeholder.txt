@@ -1,0 +1,2 @@
+Replace this folder's og-image.png with a real 1200x630 image before deploying.
+This powers the social-share preview (Open Graph + Twitter Card).
